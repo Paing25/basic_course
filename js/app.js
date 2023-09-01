@@ -1,1 +1,1 @@
- 
+ const myName = "paing hein kyaw"
